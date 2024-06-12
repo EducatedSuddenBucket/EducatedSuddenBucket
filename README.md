@@ -12,8 +12,9 @@ Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1167825360151380032)](https://discord.com/users/1167825360151380032)
 
 ## Interests
-- **PrismarineJS:** Interested in using PrismarineJS with the minecraft-protocol library for Node.js
-
+- **NodeJS** 
+- **HTML**
+- **JS**
 Feel free to connect with me and check out my projects!
 
 Thank you for visiting my profile!
