@@ -15,6 +15,7 @@ Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little 
 - **NodeJS** 
 - **HTML**
 - **JS**
+
 Feel free to connect with me and check out my projects!
 
 Thank you for visiting my profile!
