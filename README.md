@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little bit about me and my projects:
+Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little bit about me:
 
 ## About Me
 
