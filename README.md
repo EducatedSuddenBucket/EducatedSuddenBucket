@@ -6,7 +6,6 @@ Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little 
 
 - **Birthday:** 25th June
 - **Operating System:** Antix Linux
-- **Customization:** I've riced my Linux system for a unique and efficient setup
 - **Website:** [educatedsuddenbucket.is-a.dev](https://educatedsuddenbucket.is-a.dev)
 - **Email:** [educatedsuddenbucket@gmail.com](mailto:educatedsuddenbucket@gmail.com)
 
