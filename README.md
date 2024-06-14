@@ -18,6 +18,9 @@ Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little 
 - **HTML**
 - **JS**
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EducatedSuddenBucket&show_icons=true&theme=dark)
+
 Feel free to connect with me and check out my projects!
 
 Thank you for visiting my profile!
