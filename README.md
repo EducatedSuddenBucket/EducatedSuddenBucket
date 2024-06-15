@@ -13,13 +13,9 @@ Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1167825360151380032)](https://discord.com/users/1167825360151380032)
 
-## Interests
-- **NodeJS** 
-- **HTML**
-- **JS**
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EducatedSuddenBucket&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EducatedSuddenBucket&layout=compact&theme=dark)
 
 Feel free to connect with me and check out my projects!
 
