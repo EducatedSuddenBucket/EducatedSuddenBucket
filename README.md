@@ -1,13 +1,11 @@
 # NO ONE CARES
 
-# Welcome to My GitHub Profile!
-
 Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little bit about me:
 
 ## About Me
 
 - **Birthday:** 25th June
-- **Operating System:** Antix Linux
+- **Operating System:** Debian 12.5
 - **Website:** [educatedsuddenbucket.is-a.dev](https://educatedsuddenbucket.is-a.dev)
 - **Email:** [educatedsuddenbucket@gmail.com](mailto:educatedsuddenbucket@gmail.com)
 
@@ -17,6 +15,3 @@ Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EducatedSuddenBucket&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EducatedSuddenBucket&layout=compact&theme=dark)
 
-Feel free to connect with me and check out my projects!
-
-Thank you for visiting my profile!
