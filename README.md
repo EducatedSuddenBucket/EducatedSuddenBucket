@@ -5,9 +5,8 @@ Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little 
 ## About Me
 
 - **Birthday:** 25th June
-- **Operating System:** Debian 12.5
-- **Website:** [educatedsuddenbucket.is-a.dev](https://educatedsuddenbucket.is-a.dev)
-- **Email:** [educatedsuddenbucket@gmail.com](mailto:educatedsuddenbucket@gmail.com)
+- **Website:** [esb.is-a.dev](https://esb.is-a.dev)
+- **Email:** [hi@esb.is-a.dev](mailto:hi@esb.is-a.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1167825360151380032)](https://discord.com/users/1167825360151380032)
 
