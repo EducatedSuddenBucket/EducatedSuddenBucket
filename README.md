@@ -1,9 +1,7 @@
 # NO ONE CARES
 
-Hello! I'm an enthusiast of Linux, coding, and all things tech. Here's a little bit about me:
-
 ## About Me
-
+Idk what to put here but there is some info about me below
 - **Birthday:** 25th June
 - **Website:** [esb.is-a.dev](https://esb.is-a.dev)
 - **Email:** [hi@esb.is-a.dev](mailto:hi@esb.is-a.dev)
